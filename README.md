@@ -7,3 +7,6 @@ getgc
 hookfunction
 
 input functions such as mousemoverel n stuff soon
+
+
+# SOME OF THESE FUNCTIONS MIGHT BE BROKEN/MADE THE WRONG WAY IT IS JUST FOR SHOWING HOW THEY WORK ON THE C SIDE
